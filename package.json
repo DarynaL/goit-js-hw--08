@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://DarynaL.github.io/https://github.com/DarynaL/goit-js-hw--08",
+  "homepage": "https://github.com/DarynaL/goit-js-hw--08",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /https://github.com/DarynaL/goit-js-hw--08/"
+    "build": "parcel build src/index.html src/*.html --public-url /goit-js-hw--08/"
   },
   "repository": {
     "type": "git",
